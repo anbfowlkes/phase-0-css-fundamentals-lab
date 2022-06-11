@@ -3,3 +3,65 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+img {
+  display: block;
+  align-content: center;
+  margin: auto;
+}
+
+nav a {
+  padding: 10px;
+  background-color: grey;
+}
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+.paragraphs {
+  width: 800px;
+  margin: auto;
+}
+.paragraphs p {
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+}
+.allfour {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+#details {
+  width: 100%;
+  margin: auto;
+  align-items: center;
+}
+#details div {
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  width: 24%;
+  background-color: orange;
+}
+#first {
+  float: center;
+}
+#second {
+  float: center;
+}
+#third {
+  float: center;
+}
+#fourth {
+  float: center;
+}
+* {
+  text-align: center;
+}
